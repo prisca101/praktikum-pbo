@@ -1,2 +1,2 @@
-Praktikum 2 - Lab PBO C
+Praktikum 2 - Lab PBO C -
 24060121140093 - Prisca Della Budiman
