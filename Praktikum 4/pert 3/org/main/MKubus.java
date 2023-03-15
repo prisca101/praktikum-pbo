@@ -11,7 +11,7 @@ import org.bangunruang.Kubus;
 
 public class MKubus {
     public static void main(String[] args){
-        BujurSangkar bujursangkar = new BujurSangkar(10);
+        BujurSangkar bujursangkar = new BujurSangkar(4);
         Kubus kubus = new Kubus(bujursangkar);
 
         System.out.println("Volume kubus : " + kubus.hitungVolume());
