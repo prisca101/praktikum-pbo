@@ -1,7 +1,7 @@
 /**
- * File : MPoligon.java 08/03/2023
+ * File : MPoligon.java 15/03/2023
  * Penulis : Prisca Della Budiman
- * Deskripsi : driver class untuk poligon dan persegi panjang dan segitiga
+ * Deskripsi : driver class untuk poligon dan bujursangkar dan kubus
  */
  
 package org.main;
