@@ -1,0 +1,20 @@
+/**
+ * File : MPoligon.java 08/03/2023
+ * Penulis : Prisca Della Budiman
+ * Deskripsi : driver class untuk poligon dan persegi panjang dan segitiga
+ */
+ 
+package org.main;
+
+import org.bangundatar.BujurSangkar;
+import org.bangunruang.Kubus;
+
+public class MKubus {
+    public static void main(String[] args){
+        BujurSangkar bujursangkar = new BujurSangkar(10);
+        Kubus kubus = new Kubus(bujursangkar);
+
+        System.out.println("Volume kubus : " + kubus.hitungVolume());
+        System.out.println("Luas alas kubus : " + kubus.hitungLuasAlas());
+    }
+}
